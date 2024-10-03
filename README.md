@@ -1,6 +1,3 @@
-Great! Here’s a tailored README for your GitHub repository based on the link you provided:
-
-```markdown
 # Face Mask Detection
 
 This project implements a face mask detection system using a Convolutional Neural Network (CNN) with a pre-trained VGG16 model. The model is designed to identify whether a person is wearing a mask or not, utilizing OpenCV for real-time face detection.
